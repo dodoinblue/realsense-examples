@@ -1,0 +1,20 @@
+{
+  "name": "testrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fsm-as-promised": "^0.16.0",
+    "input": "^1.0.1",
+    "node-glfw-3": "^0.3.4",
+    "node-librealsense": "^0.2120.0",
+    "performance-now": "^2.1.0",
+    "pkg": "^4.3.3"
+  }
+}
